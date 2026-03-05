@@ -2,6 +2,9 @@
 
 Projeto desenvolvido durante aula de HTML5 e CSS3.
 
+Objetivo
+Praticar os conceitos básicos de desenvolvimento web utilizando HTML5 e CSS3...
+
 ## Acessar o projeto
 🔗 https://renan3011.github.io/Novo-formulario-HTML5-CSS3/
 
